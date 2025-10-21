@@ -7,9 +7,13 @@ _"Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in 
 Core Projects
 
 [Tabella APP](https://github.com/Churchly/tabella2)
+
 [Tabella API](https://github.com/Churchly/tabella_api)
+
 [Tabella Ads](https://github.com/Churchly/tabella_ads)
+
 [Tabella Notification (API)](https://github.com/Churchly/notification-api)
+
 [Tabella Notification (Worker)](https://github.com/Churchly/notification-worker)
 
 ---
